@@ -1,0 +1,32 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+**/Config/User*.ini
+
+# IDE and project files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Logs and local temporary files
+*.log
+*.tmp
+*.bak
+*.user
+*.userprefs
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
